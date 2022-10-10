@@ -13,6 +13,8 @@ In this projec the data analytics team will do the following:
 
 # Linear Regression to Predict MPG
   * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
+
 ![deliverable 1](Images/Deliverable 1a.png)
 
 
