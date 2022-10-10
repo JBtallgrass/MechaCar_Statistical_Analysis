@@ -35,7 +35,7 @@ Below is the Statistical summary if the following independent variables (less si
 ![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
 
 ## T-Tests on Suspension Coils
-![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/T-tests_summary.png)
+![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/T-tests.png)
 
 
 ## Design a Study Comparing the MechaCar to the Competition
