@@ -14,7 +14,7 @@ In this projec the data analytics team will do the following:
 # Linear Regression to Predict MPG
   * Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
 
-![text](Images/Deliverable 1a.png){ width=60%,height:30px }
+![Images/Deliverable 1a.png](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable%201a.png){ width=60%,height:30px }
 
 
   * Is the slope of the linear model considered to be zero? Why or why not?
