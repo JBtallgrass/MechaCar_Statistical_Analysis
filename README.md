@@ -10,8 +10,8 @@ In this projec the data analytics team will do the following:
   * Run t-tests to determine if the manufacturing lots are statistically different from the mean population
   * Design a statistical study to compare vehicle performance of the MechaCar vehicles against vehicles from other manufacturers. 
 
-### H ^0^ : States that dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle will not be a statistically significant predictor of MPG.
-### H ^A^ : States that dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle is a predictor of MPG
+H^0^: States that dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle will not be a statistically significant predictor of MPG.
+H^A^: States that dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle is a predictor of MPG
 
 
 
