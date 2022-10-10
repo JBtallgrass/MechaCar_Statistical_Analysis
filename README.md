@@ -16,7 +16,7 @@ In this projec the data analytics team will do the following:
 
 ### HA: States that dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle is a statistically significant predictor of MPG of MPG
 
-# Linear Regression to Predict MPG
+## Linear Regression to Predict MPG
 The dataset contains the variables likly to effect MPG. The dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle. According the the model there is statistical significance that the variable will present consistent variances. The vehicle weight, spoiler angle, and All Wheel Drive (AWD) have p-Values that indicate a random amount of variance with the dataset. The p-Value for the model is **5.35e-11**  rejecting the null hypothsis. The r-squared value of **.7149** defines this model as reliable
 
 ![Statistical Summary 1a ](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable_1a.png)
@@ -26,16 +26,20 @@ Below is the Statistical summary if the following independent variables (less si
 ![Statistical Summary 1b ](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/Deliverable_1b.png)
 
  
-# Create Visualizations for the Trip Analysis
+## Create Visualizations for the Trip Analysis
 
-![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/Rplot01.png))
+![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/Rplot01.png)
 
-![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/Total_summary.png))
+![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/Total_summary.png)
 
-![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png))
+![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/lot_summary.png)
 
-# T-Tests on Suspension Coils
-![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/T-tests_summary.png))
+## T-Tests on Suspension Coils
+![Statistical Summary](https://github.com/JBtallgrass/MechaCar_Statistical_Analysis/blob/main/Images/T-tests_summary.png)
 
 
-# Design a Study Comparing the MechaCar to the Competition
+## Design a Study Comparing the MechaCar to the Competition
+
+
+
+LKHBgfad;lpoih
