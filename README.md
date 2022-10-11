@@ -40,6 +40,29 @@ Below is the Statistical summary if the following independent variables (less si
 
 ## Design a Study Comparing the MechaCar to the Competition
 
+### The statistical study design framework must include the following items: 
+
+ 1. A null hypothesis or an alternative hypothesis is described
+ 2. A metric that is measured through recognized measurements
+ 3. Must be repeatable- given similar circumstances
+ 4. have a statistical test applied
+
+### To improve the possibilities of be of use to the manufactor the MechCar comparitive analysis will include similar cars from variuos manufactors. THe vehicles must be like-types so as to present an objective analysis.  Once determined each model must be evaluated within the identical features. the follow features are potential catagories for analysis:
+
+Value: Dependent Variable
+
+  - Safety Feature Rating: Independent Variable
+  - Engine (Electric, Hybrid, Gasoline / Conventional): Independent Variable
+  - Maintenance costs: Independent Variable
+  - Malfunctions (time in repair): Independent Variable
+
+### Hypothesis: Null and Alternative
+After determining the evaluation criteria and metrics the two hypotheses should read as follows:
+   **Null Hypothesis**  (Ho): MechaCar is priced correctly based on its performance of key factors for its genre.
+   **Alternative Hypothesis** (Ha): MechaCar is NOT priced correctly based on performance of key factors for its genre.
+
+### Statistical Tests
+A multiple linear regression could determine the highest correlation/predictability with value (dependent variable)
 
 
-LKHBgfad;lpoih
+
