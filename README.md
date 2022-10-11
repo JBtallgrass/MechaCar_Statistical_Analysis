@@ -12,9 +12,9 @@ In this projec the data analytics team will do the following:
 
 ## Hypothesis:
 
-### H0: (nul) States that dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle will not be a statistically significant predictor of MPG.
+### H0: (null) States that dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle will not be a statistically significant predictor of MPG.
 
-### HA: States that dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle is a statistically significant predictor of MPG of MPG
+### HA: States that dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle is a statistically significant predictor of MPG.
 
 ## Linear Regression to Predict MPG
 The dataset contains the variables likly to effect MPG. The dimensions of the vehicle (length, width, and weight), the ground clearance, drive train (AWD) and the spoiler angle. According the the model there is statistical significance that the variable will present consistent variances. The vehicle weight, spoiler angle, and All Wheel Drive (AWD) have p-Values that indicate a random amount of variance with the dataset. The p-Value for the model is **5.35e-11**  rejecting the null hypothsis. The r-squared value of **.7149** defines this model as reliable
