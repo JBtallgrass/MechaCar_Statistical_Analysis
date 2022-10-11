@@ -47,7 +47,7 @@ Below is the Statistical summary if the following independent variables (less si
  3. Must be repeatable- given similar circumstances
  4. have a statistical test applied
 
-### To improve the possibilities of be of use to the manufactor the MechCar comparitive analysis will include similar cars from variuos manufactors. THe vehicles must be like-types so as to present an objective analysis.  Once determined each model must be evaluated within the identical features. the follow features are potential catagories for analysis:
+To be of use to the manufactor the MechCar comparitive analysis will include similar cars from variuos manufactors. The vehicles must be like-types so as to present an objective analysis.  Once determined each model must be evaluated within the identical features. The following features are potential catagories for analysis:
 
 Value: Dependent Variable
 
